@@ -1,0 +1,3 @@
+Activation,MAE,RMSE,R2,Avg_Gradient_Norm,Min_Gradient_Norm,Observation
+Sigmoid,82.94940793747419,86.06162439729269,-13.080938888195815,0.016386664,4.7081382e-08,"Slow learning, gradients near zero"
+ReLU,83.27004846782937,86.37073031653078,-13.18226902200028,0.006169294,0.0,"Healthy gradients, faster learning"

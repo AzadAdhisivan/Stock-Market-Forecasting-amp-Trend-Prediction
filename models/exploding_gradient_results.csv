@@ -1,0 +1,3 @@
+Model,MAE,RMSE,R2,Learning_Rate,Clip_Norm,Observation
+Without Clipping,196.8001464292551,198.1320259780142,-73.63145288560955,0.1,,"Unstable loss, large weight updates"
+With Clipping,97.33938440532937,100.0047890852469,-18.013152518311617,0.1,1.0,"Stable loss, controlled gradients"
